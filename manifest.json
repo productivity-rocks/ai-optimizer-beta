@@ -2,8 +2,8 @@
     "update_url": "https://clients2.google.com/service/update2/crx",
     "manifest_version": 3,
     "name": "ChatGPT Optimizer - Boost Your AI Workflow",
-    "description": "Bring the Chat GPT interface and features on a new level!",
-    "version": "1.9.2",
+    "description": "Enhance the Chat GPT interface and bring GPT trough all the web!",
+    "version": "1.9.3",
     "icons": {
         "16": "/icons/16.png",
         "32": "/icons/32.png",
@@ -24,6 +24,7 @@
                 "/assets/js/nav.js",
                 "/assets/js/msgs.js",
                 "/assets/js/prompt.js",
+                "/assets/js/settings.js",
                 "init.js",
                 "main.js",
                 "/assets/js/library/pdf.min.js",
